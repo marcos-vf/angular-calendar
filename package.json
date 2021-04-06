@@ -158,7 +158,7 @@
     "@scarf/scarf": "^1.1.0",
     "angular-draggable-droppable": "^4.5.6",
     "angular-resizable-element": "^3.3.3",
-    "calendar-utils": "^0.8.3",
+    "calendar-utils": "github:marcos-vf/calendar-utils",
     "positioning": "^2.0.1",
     "tslib": "^1.14.1"
   },
